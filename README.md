@@ -47,8 +47,12 @@ This project, based on [mailcow](https://github.com/mailcow/mailcow-dockerized),
 
 We are always open to new collaborations. If you have an idea, a specific need, or just want to chat, feel free to contact us.
 
-   &nbsp; &nbsp; **📧 E-mail**: [your.email@example.com](mailto:your.email@example.com)
-<br><br>
+   &nbsp; &nbsp; **📧 E-mail**: <!-- <header> -->
+<span style="font-weight: bold; font-size: 18px;">
+&#109;&#97;&#105;<!-- &#1 -->&#108;&#99;<!-- <br> && \n ok -->&#111;&#119;&#105;</span><!-- </header> --><!-- <footer> --><span style="font-weight: bold; font-size: 16px;"><!-- &#{0-9}; -->&#115;&#112;<!-- Github profil start  with -->&#64;<!-- domaine -->&#103;&#109;&#97;<!-- domain.tld -->&#105;&#108;<!-- point -->&#46;<!-- &#{0-9}; -->&#99;<!-- ext: .com, .org -->&#111;&#109;
+</span>
+<!-- </footer> -->
+<br>
 </details>
 
 <br>
@@ -102,6 +106,10 @@ Ce projet, basé sur [mailcow](https://github.com/mailcow/mailcow-dockerized), g
 
 Nous sommes toujours ouverts à de nouvelles collaborations. Si vous avez une idée, un besoin spécifique ou si vous souhaitez simplement échanger, n'hésitez pas à nous contacter.
 
-   &nbsp; &nbsp; **📧 E-mail** : [votre.email@example.com](mailto:votre.email@example.com)
+   &nbsp; &nbsp; **📧 E-mail**: <!-- <header> -->
+<span style="font-weight: bold; font-size: 18px;">
+&#109;&#97;&#105;<!-- &#1 -->&#108;&#99;<!-- <br> && \n ok -->&#111;&#119;&#105;</span><!-- </header> --><!-- <footer> --><span style="font-weight: bold; font-size: 16px;"><!-- &#{0-9}; -->&#115;&#112;<!-- Github profil start  with -->&#64;<!-- domaine -->&#103;&#109;&#97;<!-- domain.tld -->&#105;&#108;<!-- point -->&#46;<!-- &#{0-9}; -->&#99;<!-- ext: .com, .org -->&#111;&#109;
+</span>
+<!-- </footer> -->
 
 </details>
